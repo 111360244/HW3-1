@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  p12.c
+LINK : warning LNK4300: 因為輸入模組包含 ASAN 中繼資料，所以會忽略 '/INCREMENTAL'
+p12.obj : warning LNK4075: 忽略 '/EDITANDCONTINUE'，由於 '/INCREMENTAL:NO' 規格
+  P12.vcxproj -> C:\c_code\HW3\HW3-1\temp\debug\P12.exe
